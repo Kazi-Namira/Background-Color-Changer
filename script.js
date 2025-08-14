@@ -13,7 +13,9 @@ let array = [
   "lightsalmon",
   "lightsteelblue",
 ];
+
 let index = 0;
+
 function changecolor() {
   document.body.style.backgroundColor = array[index];
   index++;
@@ -21,3 +23,4 @@ function changecolor() {
     index = 0;
   }
 }
+
