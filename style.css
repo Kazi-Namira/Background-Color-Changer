@@ -6,7 +6,6 @@ body {
   justify-content: center;
   display: flex;
   gap: 20px;
-  font-size: 1em;
   height: 100vh;
 }
 button {
@@ -21,3 +20,4 @@ button {
 button:hover {
   background-color: #f0f0f0;
 }
+
